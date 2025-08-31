@@ -7,16 +7,12 @@
   
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Juholv&theme=omni&show_icons=true"
-  />
-  <img 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juholv&layout=compact&theme=omni"/>
+ <div>
+  <a href="https://github.com/Juholv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juholv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juholv&layout=compact&langs_count=16&theme=omni"/>
 </div>
+
+
 
 
